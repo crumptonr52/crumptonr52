@@ -4,28 +4,25 @@
 <p align="center"><i><strong>Smart people are never too busy!!: I am convinced that the world belongs to tireless and intelligent workers who like to think and be practical in their lives</strong></i></p>
           
 
-![Smart people are never too busy!](https://github.com/cgcarlosg/cgcarlosg/blob/main/worksmarter.jpg) 
+![Smart people are never too busy!](https://github.com/crumptonr52/crumptonr52/blob/main/worksmarter.jpg) 
 
 - 🌱 I’m currently working as Web UI developer at Globant and every day is great!
 - 👯  I’m looking for companies that want to change the world!
 
-![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=cgcarlosg&show_icons=true)
-![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=cgcarlosg&show_icons=true&theme=radical)
-
 <details>
   <summary><strong>More About Me</strong></summary>
   <br>
-   I'm working in my first role as Web UI developer. I have had an interest in coding since a couple of years ago, but never really focused on learning to code until 2020. This 2021 I got the opportunity to show my skills. </p>
+   I'm working in my first role as Web Rails developer. I have had an interest in coding since a couple of years ago, but never really focused on learning to code until 2020. This 2021 I got the opportunity to show my skills. </p>
    
  
    **Hobbies** 
-   - Movies
+   - Games
    - Go to the pool with my family
    
   **I am currently 🔭**
-   - Working with Javascript
-   - Reviewing Ruby on Rails
-   - Learning ReactJS
+   - Working with Javascript, ReactJS
+   - Working Ruby on Rails
+   - Learning Python
    
 </details>
 
@@ -36,7 +33,7 @@
   <summary><strong>Some things I am trying to be better at 🌱</strong></summary>
   <br>
 
-  - Mastering JavaScript
+  - Mastering Ruby, JavaScript
   - Doing a lof of coding challenges
 
 </details>
@@ -50,7 +47,6 @@
 
   <p><strong>IRL Languages:</strong></p>
 
-  - Spanish
   - English
 
   <br>
@@ -67,8 +63,8 @@
   <p><strong>Backend-end Languages</strong></p>
   
   - Ruby
-  - MYSQL
-  - NodeJs
+  - PHP
+  - Python
   
   <br>
   <br>
@@ -86,6 +82,9 @@
  - Ruby on Rails
  - React and Redux
  - Bootstrap
+ - Node
+ - Angular
+ - Vue
   
  <br>
  <br>
@@ -94,10 +93,9 @@
 
 ***<p align="center">Currently Available for Professional Oportunities</p>***
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlosalbeniogutierrez/?locale=en_US">GITHUB</a>
-  <a href="https://www.linkedin.com/in/carlosalbeniogutierrez">LINKEDIN</a>
-  <a href="https://twitter.com/cgcarlosg1">TWITER</a>
-  <a href="mailto:cgcarlosg@hotmail.com">MAIL</a>
+  <a href="https://github.com/crumptonr52">GITHUB</a>
+  <a href="">LINKEDIN</a>
+  <a href="mailto:crumptonrick3@gmail.com">MAIL</a>
   
 </p>
 
