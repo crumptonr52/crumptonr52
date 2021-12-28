@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Carlos 👋</h2>
+<h2 align="center">Hi there, I'm Rick 👋</h2>
 
 
 <p align="center"><i><strong>Smart people are never too busy!!: I am convinced that the world belongs to tireless and intelligent workers who like to think and be practical in their lives</strong></i></p>
